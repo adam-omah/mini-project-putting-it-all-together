@@ -238,4 +238,13 @@ footer .cv-pdf i:hover {
     margin-bottom: 15px;
 }
 
-/*------------Three Reasons-----------*/
+/*------------/Three Reasons-----------*/
+
+
+/*------------Personal Info-----------*/
+
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
+/*------------/Personal Info-----------*/
